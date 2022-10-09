@@ -2,7 +2,7 @@
 C Programlama Dili Kişiyi Geliştirmeye Yönelik Örnek #1
 
 # Çalışma Mantığı
-Belirli değişkenler ile farklı çıktılar alyoruz.
+Belirli değişkenler ile farklı çıktılar alıyoruz.
 
 # Kullanım
 Algoritmanın çalışabilmesi için C programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
